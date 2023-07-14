@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 700px;
+    flex-shrink: 0;
+}
+
+.header {
+    margin-top: 40px;
+    margin-left: 375px;
+    display: flex;
+}
+
+.logo__header {
+    display: flex;
+}
+
+.image__logo__header {
+    width: 35px;
+    height: 40px;
+    flex-shrink: 0;
+}
+
+.grow {
+    margin-top: 45px;
+    color: #000000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.be {
+    margin-top: 45px;
+    color: #F25822;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.menu__header {
+    padding: 6px;
+    margin-left: 375px;
+}
+
+a {
+    text-decoration: none;
+    padding-right: 30px;
+}
+
+.link__home__menu__header {
+    color: #F25822;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.link_head_menu {
+    color: #000000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main {
+    display: flex;
+    margin-left: 373px;
+}
+
+.information__main {
+    width: 522px;
+    height: 374px;
+    flex-shrink: 0;
+    padding-top: 84px;
+}
+
+.h1_information__main {
+    color: #000000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.p_information__main {
+    padding-top: 17px;
+    color: #888;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.buttons_information {
+    padding-top: 37px;
+}
+
+.start_now {
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text_watch_video {
+    color: #AAAAAA;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 108px;
+    padding-top: 52px;
+}
+
+.picture_information__main {
+    padding-left: 41px;
+    padding-top: 37px;
+    margin-right: 439px;
+}
+
+.cellar {
+    margin-bottom: 96px;
+    margin-left: 345px;
+}
+
+.logo__cellar {
+    padding-top: 275px;
+    padding-right: 48px;
+}
